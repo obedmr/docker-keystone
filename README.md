@@ -14,7 +14,7 @@ docker build -t obedmr/keystone .
 Or just pull it from Dockerhub
 ---------------------------
 ```
-docker pull obedmr/obedmr
+docker pull obedmr/keystone
 ```
 
 Start MariaDB container
